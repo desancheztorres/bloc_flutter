@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken",
+        "image": "chicken.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 2,
+        "name": "Vegetarian",
+        "image": "vegetarian.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 3,
+        "name": "Pork",
+        "image": "pork.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 4,
+        "name": "Vegan",
+        "image": "vegan.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 5,
+        "name": "Seafood",
+        "image": "seafood.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 6,
+        "name": "Poultry",
+        "image": "poultry.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    }
+]

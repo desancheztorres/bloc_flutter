@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Ab Wheel",
+        "image": "ab_wheel.png",
+        "body_part": "Core",
+        "category": "Weighted bodyweight",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    },
+    {
+        "id": 2,
+        "name": "Aerobics",
+        "image": "aerobics.png",
+        "body_part": "Cardio",
+        "category": "Duration",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    },
+    {
+        "id": 3,
+        "name": "Back Extension",
+        "image": "back_extension.png",
+        "body_part": "Back",
+        "category": "Machine/Other",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    },
+    {
+        "id": 4,
+        "name": "Cable Crossover",
+        "image": "cable_crossover.png",
+        "body_part": "Chest",
+        "category": "Machine/Other",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    },
+    {
+        "id": 5,
+        "name": "Chest Fly",
+        "image": "chest_fly.png",
+        "body_part": "Chest",
+        "category": "Machine/Other",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    },
+    {
+        "id": 1,
+        "name": "Ab Wheel",
+        "image": "ab_wheel.png",
+        "body_part": "Core",
+        "category": "Weighted bodyweight",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    },
+    {
+        "id": 2,
+        "name": "Aerobics",
+        "image": "aerobics.png",
+        "body_part": "Cardio",
+        "category": "Duration",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    },
+    {
+        "id": 3,
+        "name": "Back Extension",
+        "image": "back_extension.png",
+        "body_part": "Back",
+        "category": "Machine/Other",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    },
+    {
+        "id": 4,
+        "name": "Cable Crossover",
+        "image": "cable_crossover.png",
+        "body_part": "Chest",
+        "category": "Machine/Other",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    },
+    {
+        "id": 5,
+        "name": "Chest Fly",
+        "image": "chest_fly.png",
+        "body_part": "Chest",
+        "category": "Machine/Other",
+        "status": true,
+        "created_at": "21-06-2019",
+        "updated_at": "21-06-2019"
+    }
+]

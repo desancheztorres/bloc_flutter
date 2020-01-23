@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "arms",
+        "image": "arms.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 2,
+        "name": "back",
+        "image": "back.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 3,
+        "name": "calves",
+        "image": "calves.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 4,
+        "name": "chest",
+        "image": "chest.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 5,
+        "name": "legs",
+        "image": "legs.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 6,
+        "name": "shoulders",
+        "image": "shoulders.png",
+        "status": true,
+        "created_at": "",
+        "updated_at": ""
+    }
+]

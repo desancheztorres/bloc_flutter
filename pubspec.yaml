@@ -1,0 +1,108 @@
+name: fultter_ultralifestyle
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: 3.1.0
+  equatable:
+  splashscreen:
+  charts_flutter:
+  flutter_circular_chart:
+  dots_indicator:
+  intl:
+  line_icons:
+  oauth2:
+  flutter_secure_storage:
+  shared_preferences:
+  flutter_multiselect:
+  flutter_masked_text:
+  flutter_html:
+  url_launcher:
+  cupertino_icons: ^0.1.2
+  flutter_staggered_grid_view:
+  # pedometer: ^1.0.0
+  # flutter_health:
+  # fit_kit:
+  rflutter_alert:
+  flutter_datetime_picker:
+  font_awesome_flutter: 8.5.0
+  worm_indicator: 0.2.1
+  datetime_picker_formfield: ^1.0.0
+  gradient_app_bar:
+  youtube_player_flutter: ^6.0.3+2
+  flutter_rating_bar: ^3.0.1+1
+  carousel_slider: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/
+    - assets/images/welcome/
+    - assets/images/logo/
+    - assets/images/loading/
+    - assets/images/news/
+    - assets/images/exercises/
+    - assets/images/exercises/cards/
+    - assets/images/exercises/categories/
+    - assets/images/recipes/cards/
+    - assets/images/recipes/bg/
+    - assets/images/workouts/
+    - assets/images/workouts/main/
+    - assets/images/products/
+    - assets/data/
+
+  fonts:
+    - family: Avenir Book
+      fonts:
+        - asset: assets/fonts/Avenir-Book.ttf
+    - family: Avenir Heavy
+      fonts:
+        - asset: assets/fonts/Avenir-Heavy.ttf
+    - family: Avenir Medium
+      fonts:
+        - asset: assets/fonts/Avenir-Medium.ttf
+    - family: Helvetica-Bold-Font
+      fonts:
+        - asset: assets/fonts/Helvetica-Bold-Font.ttf
+    - family: SF Pro Text
+      fonts:
+        - asset: assets/fonts/SF-Pro-Text-Regular.ttf
+    - family: SF Pro Text Bold
+      fonts:
+        - asset: assets/fonts/SF-Pro-Text-Bold.ttf
+    - family: Roboto Bold
+      fonts:
+        - asset: assets/fonts/Roboto-Bold.ttf
+    - family: Roboto Light
+      fonts:
+        - asset: assets/fonts/Roboto-Light.ttf
+    - family: Futura
+      fonts:
+        - asset: assets/fonts/futura.ttf
+    - family: Lucida
+      fonts:
+        - asset: assets/fonts/lucidagrandebold.ttf
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-Semibold.ttf
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
+    - family: Timesroman
+      fonts:
+        - asset: assets/fonts/serif-regular.ttf
+        - asset: assets/fonts/serifbold.ttf
+          weight: 700
+
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Regular.ttf

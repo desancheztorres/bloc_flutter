@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "image": "product1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac felis donec. Nunc eget lorem dolor sed viverra. Id diam vel quam elementum pulvinar etiam non quam. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Eu facilisis sed odio morbi quis. Eget mauris pharetra et ultrices. Vestibulum mattis ullamcorper velit sed. Id consectetur purus ut faucibus pulvinar. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Diam vel quam elementum pulvinar etiam non quam. Purus non enim praesent elementum facilisis leo vel fringilla est. Risus quis varius quam quisque. Fusce ut placerat orci nulla pellentesque. Leo in vitae turpis massa sed elementum tempus egestas sed. Suspendisse in est ante in. Sed pulvinar proin gravida hendrerit lectus a.",
+        "price": 120.0,
+        "discount": 30,
+        "rating": 4.8,
+        "images": [
+            "product1.png",
+            "product2.png",
+            "product3.png"
+        ],
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "image": "product2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac felis donec. Nunc eget lorem dolor sed viverra. Id diam vel quam elementum pulvinar etiam non quam. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Eu facilisis sed odio morbi quis. Eget mauris pharetra et ultrices. Vestibulum mattis ullamcorper velit sed. Id consectetur purus ut faucibus pulvinar. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Diam vel quam elementum pulvinar etiam non quam. Purus non enim praesent elementum facilisis leo vel fringilla est. Risus quis varius quam quisque. Fusce ut placerat orci nulla pellentesque. Leo in vitae turpis massa sed elementum tempus egestas sed. Suspendisse in est ante in. Sed pulvinar proin gravida hendrerit lectus a.",
+        "price": 100.0,
+        "discount": 20,
+        "rating": 2.5,
+        "images": [
+            "product1.png",
+            "product2.png",
+            "product3.png"
+        ],
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "image": "product3.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac felis donec. Nunc eget lorem dolor sed viverra. Id diam vel quam elementum pulvinar etiam non quam. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Eu facilisis sed odio morbi quis. Eget mauris pharetra et ultrices. Vestibulum mattis ullamcorper velit sed. Id consectetur purus ut faucibus pulvinar. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Diam vel quam elementum pulvinar etiam non quam. Purus non enim praesent elementum facilisis leo vel fringilla est. Risus quis varius quam quisque. Fusce ut placerat orci nulla pellentesque. Leo in vitae turpis massa sed elementum tempus egestas sed. Suspendisse in est ante in. Sed pulvinar proin gravida hendrerit lectus a.",
+        "price": 80.0,
+        "discount": 10,
+        "rating": 4.0,
+        "images": [
+            "product1.png",
+            "product2.png",
+            "product3.png"
+        ],
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "image": "product4.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac felis donec. Nunc eget lorem dolor sed viverra. Id diam vel quam elementum pulvinar etiam non quam. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Eu facilisis sed odio morbi quis. Eget mauris pharetra et ultrices. Vestibulum mattis ullamcorper velit sed. Id consectetur purus ut faucibus pulvinar. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Diam vel quam elementum pulvinar etiam non quam. Purus non enim praesent elementum facilisis leo vel fringilla est. Risus quis varius quam quisque. Fusce ut placerat orci nulla pellentesque. Leo in vitae turpis massa sed elementum tempus egestas sed. Suspendisse in est ante in. Sed pulvinar proin gravida hendrerit lectus a.",
+        "price": 90.0,
+        "discount": 15,
+        "rating": 3.5,
+        "images": [
+            "product1.png",
+            "product2.png",
+            "product3.png"
+        ],
+        "created_at": "",
+        "updated_at": ""
+    }
+]
